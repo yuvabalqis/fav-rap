@@ -1,0 +1,36 @@
+h1{
+    background-color:#191970 ;
+    color: aliceblue;
+}
+ p{
+    background-color: #B0C4DE;
+    border: 3px solid #191970;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border:5px dotted #191970;
+    border-top: 3px solid #191970;
+    border-bottom: 3px solid #191970;
+}
+a {
+    font-align:right;
+    font-size:20px;
+    color: white;
+    border:3px solid #4682B4;
+    text-decoration: none;
+    border-radius:10px;
+    margin:20px;
+}
+footer{
+ font-size: 20px;  
+}
+html{
+    background-color:#303092 ;
+}
+h2{
+    color: #15158d	;
+}
+{
+    background-color: #303092;
+}
